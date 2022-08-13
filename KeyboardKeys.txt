@@ -1,4 +1,3 @@
-KEY_UP_ARROW                           Up Arrow                                                                    Uppör
 KEY_UP_ARROW                    Up Arrow                                             Uppör                                                                                 
 KEY_DOWN_ARROW                  Down Arrow                                           Niðurör
                                                                                     
