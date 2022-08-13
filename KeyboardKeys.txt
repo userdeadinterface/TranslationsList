@@ -1,1 +1,111 @@
-From/Frá Árnarstofnun-Íðorðabankinn (Ekki tilbúið)
+KEY_UP_ARROW                           Up Arrow                                                                    Uppör
+KEY_UP_ARROW                    Up Arrow                                             Uppör                                                                                 
+KEY_DOWN_ARROW                  Down Arrow                                           Niðurör
+                                                                                    
+KEY_LEFT_ARROW                  Left Arrow                                           Vinstriör
+                                                                                    
+KEY_RIGHT_ARROW                 Right Arrow                                          Hægriör
+                                                                                    
+KEY_LEFT_SHIFT                  Left Shift                                           Vinstri Skiptilykill
+                                                                                    
+KEY_RIGHT_SHIFT                 Right Shift                                          Hægri Skiptilykill
+                                                                                    
+KEY_LEFT_CONTROL                Left Control                                         Vinsti Stýrilykill
+                                                                                    
+KEY_RIGHT_CONTROL               Right Control                                        Hægri Stýrilykill
+                                                                                    
+KEY_LEFT_ALT                    Left Alt                                             Vinstri umskiptalykill
+                                                                                    
+KEY_RIGHT_ALT                   Right Alt                                            Hægri umskiptalykill
+                                                                                    
+KEY_LEFT_COMMAND                Left Command                                         Vinstri skipanalykill
+                                                                                    
+KEY_RIGHT_COMMAND               Right Command                                        Hægri skipanalykill
+                                                          
+KEY_LEFT_BRACKET                Left Bracket                                         Vinstri svigalykill
+                                                          
+KEY_RIGHT_BRACKET               Right Bracket                                        Hægri svigalykill
+                                                          
+KEY_LEFT_WINDOWS                Left Windows                                         Vinstri Windowslykill
+                                                          
+KEY_RIGHT_WINDOWS               Right Windows                                        Hægri Windowslykill
+                                                          
+KEY_PAGE_DOWN                   Page Down                                            Framflettilykill
+                                                          
+KEY_PAGE_UP                     Page Up                                              Afturflettilykill
+                                                          
+KEY_LEFT_MOUSE                  Left Mouse                                           Vinstri mús
+                                                          
+KEY_RIGHT_MOUSE                 Right Mouse                                          Hægri mús
+                                                          
+KEY_CENTER_MOUSE                Center Mouse                                         Miðmús
+                                                          
+KEY_NONE                        None                                                 Ekkert
+                                                          
+KEY_BACKSPACE                   Backspace                                            Hoplykill
+                                                          
+KEY_TAB                         Tab                                                  Dálkalykill
+                                                          
+KEY_CLEAR                       Clear                                                Hreinsilykill
+                                                          
+KEY_RETURN                      Return                                               Vendilykill
+                                                          
+KEY_PAUSE                       Pause                                                Hlélykill
+                                                          
+KEY_ESCAPE                      Escape                                               Lausnarlykill
+                                                          
+KEY_SPACE                       Space                                                Billykill
+                                                          
+KEY_QUOTE                       Quote                                                Tilvitnunarlykill
+                                                          
+KEY_COMMA                       Comma                                                Kommulykill
+                                                          
+KEY_PERIOD                      Period                                               Punktslykill
+                                                          
+KEY_SLASH                       Slash                                                Skástrikslykill
+                                                          
+KEY_SEMICOLON                   Semicolon                                            Semíkommulykill
+                                                          
+KEY_BACKSLASH                   Backslash                                            Afturskástrikslykill
+                                                          
+KEY_MINUS                       Minus                                                Mínuslykill
+                                                          
+KEY_EQUALS                      Equals                                               Jafnslykill
+                                                          
+KEY_BACKQUOTE                   Backquote                                            Baktilvitnunarlykill
+                                                          
+KEY_DELETE                      Delete                                               Eyðingarlykill
+                                                          
+KEY_KEYPAD_PERIOD               Keypad Period                                        Lyklaborðspunktslykill
+                                                          
+KEY_KEYPAD_DIVIDE               Keypad Divide                                        Lyklaborðsdeilingarlykill
+                                                          
+KEY_KEYPAD_MULTIPLY             Keypad Multiply                                      Lyklaborðsmargföldunarlykill
+                                                          
+KEY_KEYPAD_MINUS                Keypad Minus                                         Lyklaborðsmínuslykill
+                                                          
+KEY_KEYPAD_PLUS                 Keypad Plus                                          Lyklaborðsplúslykill
+                                                          
+KEY_KEYPAD_ENTER                Keypad Enter                                         Lyklaborðsfærslulykill
+                                                          
+KEY_KEYPAD_EQUALS               Keypad Equals                                        Lyklaborðsjafnaðarlykill
+                                                          
+KEY_INSERT                      Insert                                               Innskotslykill
+                                                          
+KEY_HOME                        Home                                                 Heimlykill
+                                                          
+KEY_END                         End                                                  Endalykill
+                                                          
+KEY_NUMLOCK                     NumLock                                              Talnalás
+                                                          
+KEY_CAPSLOCK                    CapsLock                                             Hástafalás
+                                                          
+KEY_SCROLL_LOCK                 ScrollLock                                           Skrunlás
+                                                          
+KEY_PRINT                       Print                                                Skjáprentunarlykill
+                                                          
+KEY_SYSREQ                      SysReq                                               Kerfisbeiðnarlykill
+                                                          
+KEY_BREAK                       Break                                                Stöðvunarlykill
+                                                          
+KEY_MENU                        Menu                                                 Valmyndslykill
