@@ -108,6 +108,6 @@ KEY_SYSREQ                      SysReq                                          
 
 KEY_BREAK                       Break                                                Stöðvunarlykill
 
-KEY_FUNCTION                    Function                                             Aðgerðalykill
+KEY_FUNCTION                    Function                                             Aðgerðarlykill
 
 KEY_MENU                        Menu                                                 Valmyndslykill
