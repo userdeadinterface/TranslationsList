@@ -6,13 +6,13 @@ KEY_LEFT_ARROW                  Left Arrow                                      
 
 KEY_RIGHT_ARROW                 Right Arrow                                          Hægriör
 
-KEY_LEFT_SHIFT                  Left Shift                                           Vinstri Skiptilykill
+KEY_LEFT_SHIFT                  Left Shift                                           Vinstri skiptilykill
 
-KEY_RIGHT_SHIFT                 Right Shift                                          Hægri Skiptilykill
+KEY_RIGHT_SHIFT                 Right Shift                                          Hægri skiptilykill
 
-KEY_LEFT_CONTROL                Left Control                                         Vinsti Stýrilykill
+KEY_LEFT_CONTROL                Left Control                                         Vinsti stýrilykill
 
-KEY_RIGHT_CONTROL               Right Control                                        Hægri Stýrilykill
+KEY_RIGHT_CONTROL               Right Control                                        Hægri stýrilykill
 
 KEY_LEFT_ALT                    Left Alt                                             Vinstri umskiptalykill
 
@@ -26,9 +26,9 @@ KEY_LEFT_BRACKET                Left Bracket                                    
 
 KEY_RIGHT_BRACKET               Right Bracket                                        Hægri svigalykill
 
-KEY_LEFT_WINDOWS                Left Windows                                         Vinstri Windowslykill
+KEY_LEFT_WINDOWS                Left Windows                                         Vinstri windowslykill
 
-KEY_RIGHT_WINDOWS               Right Windows                                        Hægri Windowslykill
+KEY_RIGHT_WINDOWS               Right Windows                                        Hægri windowslykill
 
 KEY_PAGE_DOWN                   Page Down                                            Framflettilykill
 
